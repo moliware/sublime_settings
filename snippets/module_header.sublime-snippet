@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+"""
+${1:package.module}
+~~~~~~~~~~~~~~~~~~~
+
+${2:Brief description}
+
+"""
+]]></content>
+    <tabTrigger>"""</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
