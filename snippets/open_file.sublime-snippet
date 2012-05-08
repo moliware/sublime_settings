@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+with open('${1:filename}', 'r') as fd:
+    pass
+]]></content>
+    <tabTrigger>file</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
