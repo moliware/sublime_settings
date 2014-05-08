@@ -2,5 +2,7 @@
     "color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
     "translate_tabs_to_spaces": true,
     "rulers": [80],
-    "draw_white_space": "all"
+    "draw_white_space": "all",
+    "show_full_path": true,
+    "theme": "Soda Dark.sublime-theme"
 }
