@@ -4,5 +4,6 @@
     "rulers": [80],
     "draw_white_space": "all",
     "show_full_path": true,
-    "theme": "Soda Dark.sublime-theme"
+    "theme": "Soda Dark.sublime-theme",
+    "folder_exclude_patterns": []
 }
